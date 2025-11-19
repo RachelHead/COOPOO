@@ -10,7 +10,7 @@ public class RobotDisco extends Robot
 {
     // variables d'instance - remplacez l'exemple qui suit par le vôtre
     /**
-     * Constructeur d'objets de classe RobotDisco
+     * Constructeur d'objets de classe RobotDisco 
      */
     public RobotDisco(int x, int y)
     {
